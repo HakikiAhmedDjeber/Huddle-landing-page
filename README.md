@@ -15,11 +15,11 @@ Users should be able to:
 
 #### Desktop mode
 
-![](./screenshot.jpg)
+![](./images/Desktop.jpeg)
 
 #### Moblie mode
 
-![](./screenshot.jpg)
+![](./images/Mobile.jpeg)
 
 ### Built with
 
